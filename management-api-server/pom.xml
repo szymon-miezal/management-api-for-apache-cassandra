@@ -192,6 +192,10 @@
           <artifactId>*</artifactId>
         </exclusion>
         <exclusion>
+          <groupId>com.fasterxml.jackson.datatype</groupId>
+          <artifactId>*</artifactId>
+        </exclusion>
+        <exclusion>
           <groupId>com.fasterxml.jackson.jakarta.rs</groupId>
           <artifactId>jackson-jakarta-rs-base</artifactId>
         </exclusion>
